@@ -1,7 +1,7 @@
 .header {
    border-bottom-style:solid;
     border-color:grey;
-    background-color:#9DEQAD;
+    background-color:#547a82;
     font-family: 'Source Code Pro', monospace;
     margin:0px;
     position:fixed;
@@ -9,7 +9,7 @@
     width:2000px;
   }
 .menu {
-  background-color:#228B22;
+  background-color:#3eacab;
   width:150px;
   height:300px;
   position:fixed;
@@ -31,7 +31,7 @@
   }
   body {
    font-family: 'Source Code Pro', monospace; 
-   background-image: url("https://topbackgroundwallpaper.com/wp-content/uploads/2018/01/wallpaper-website-background-lines-texture1095.jpg");
+   background-color:5a5050;
     background-attachment: fixed;
     margin:0px;
   }

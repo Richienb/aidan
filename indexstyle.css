@@ -16,7 +16,7 @@
   top:70px;
   }
  h1 {
-   background-color:red;
+   background-color:#547a82;
    margin:0px;
   }
  .main {
@@ -27,18 +27,18 @@
    width:700px;
    disply:inline-block;
    height:400;
-   background-color:white;
+   background-color:#e5elc1;
   }
   body {
    font-family: 'Source Code Pro', monospace; 
-   background-color:5a5050;
+   background-color:#5a5050;
     background-attachment: fixed;
     margin:0px;
   }
   .sub {
    width:50px;
    height:150px;
-   background-color:yellow;
+   background-color:#a2d4ab;
    display:inline-block;
    margin-left:1000px;
    position:fixed;
@@ -52,7 +52,7 @@
    width:700px;
    disply:inline-block;
    height:400; 
-    background-color:white;
+    background-color:#e5elc1;
   }
   .maintext {
    padding-left:250px; 
@@ -68,7 +68,7 @@
    width:250px;
    disply:inline-block;
    height:250px; 
-    background-color:white;
+    background-color:#e5elc1;
   }
   .emailtext {
     padding-left:100px;

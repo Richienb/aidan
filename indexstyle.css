@@ -1,7 +1,7 @@
 .header {
    border-bottom-style:solid;
     border-color:grey;
-    background-color:#547a82;
+    background-color:#34495e;
     font-family: 'Source Code Pro', monospace;
     margin:0px;
     position:fixed;
@@ -9,7 +9,7 @@
     width:2000px;
   }
 .menu {
-  background-color:#3eaca8;
+  background-color:#7f8c8d;
   width:150px;
   height:300px;
   position:fixed;
@@ -27,18 +27,18 @@
    width:700px;
    disply:inline-block;
    height:400;
-   background-color:#e5elc1;
+   background-color:#bdc3c7;
   }
   body {
    font-family: 'Source Code Pro', monospace; 
-   background-color:#a8a;
+   background-color:#ecf0f1;
     background-attachment: fixed;
     margin:0px;
   }
   .sub {
    width:50px;
    height:150px;
-   background-color:#a2d4ab;
+   background-color:#95a5a6;
    display:inline-block;
    margin-left:1000px;
    position:fixed;
@@ -52,7 +52,7 @@
    width:700px;
    disply:inline-block;
    height:400; 
-    background-color:#e5elc1;
+    background-color:#bdc3c7;
   }
   .maintext {
    padding-left:250px; 
@@ -68,7 +68,7 @@
    width:250px;
    disply:inline-block;
    height:250px; 
-    background-color:#e5elc1;
+    background-color:#bdc3c7;
   }
   .emailtext {
     padding-left:100px;

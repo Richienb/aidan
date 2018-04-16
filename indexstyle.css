@@ -10,7 +10,7 @@
   }
 .menu {
   background-color:#fd971f;
-  width:150px;
+  width:250pxpx;
   height:300px;
   position:fixed;
   top:70px;
@@ -21,7 +21,7 @@
   }
  .main {
    border-style:solid;
-   margin-left:180px;
+   margin-left:280px;
    margin-top:50px;
    font-family: 'Source Code Pro', monospace;
    width:700px;

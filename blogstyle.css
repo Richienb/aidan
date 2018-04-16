@@ -22,7 +22,7 @@
  .main {
    border-style:solid;
    margin-left:180px;
-   margin-top:50px;
+   margin-top:80px;
    font-family: 'Source Code Pro', monospace;
    width:700px;
    disply:inline-block;
@@ -50,3 +50,6 @@
   p {
    padding-left:150px; 
   }
+  h3 {
+ margin-left:300px;    
+}

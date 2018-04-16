@@ -40,13 +40,13 @@
    height:150px;
    background-color:#ae81ff;
    display:inline-block;
-   margin-left:1000px;
+   margin-left:1100px;
    position:fixed;
    top:70px;
   }
   .main2 {
     border-style:solid;
-   margin-left:180px;
+   margin-left:280px;
    margin-top:100px;
    font-family: 'Source Code Pro', monospace;
    width:700px;
@@ -62,7 +62,7 @@
   }
      .main3 { 
   border-style:solid;
-   margin-left:180px;
+   margin-left:280px;
    margin-top:100px;
    font-family: 'Source Code Pro', monospace;
    width:250px;

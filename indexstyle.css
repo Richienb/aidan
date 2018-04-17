@@ -69,6 +69,7 @@
    disply:inline-block;
    height:250px; 
     background-color:#f92672;
+        display:inline-block;
   }
   .emailtext {
     padding-left:100px;
@@ -81,5 +82,6 @@
    width:250px;
    disply:inline-block;
    height:250px; 
-    background-color:#f92672;  
+    background-color:#f92672; 
+   display:inline-block;
 }

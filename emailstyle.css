@@ -1,0 +1,22 @@
+.header {
+   border-bottom-style:solid;
+    border-color:grey;
+    background-color:#a6e22e;
+    font-family: 'Source Code Pro', monospace;
+    margin:0px;
+    position:fixed;
+    top:0px;
+    width:2000px;
+  }
+  .menu {
+  background-color:#fd971f;
+  width:250px;
+  height:300px;
+  position:fixed;
+  top:70px;
+  }
+  body {
+   font-family: 'Source Code Pro', monospace; 
+   background-color:#66d9ef;
+    background-attachment: fixed;
+    margin:0px;
